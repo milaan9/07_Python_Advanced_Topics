@@ -1,3 +1,17 @@
+<p align="center"> 
+ <img src="https://badges.pufler.dev/updated/milaan9/07_Python_Advanced_Topics" alt="milaan9"/>  
+ <img src="https://badges.pufler.dev/created/milaan9/07_Python_Advanced_Topics" alt="milaan9"/>  
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmilaan9%2F07_Python_Advanced_Topics&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/milaan9/07_Python_Advanced_Topics/stargazers"><img src="https://img.shields.io/github/stars/milaan9/07_Python_Advanced_Topics" alt="Stars Badge"/></a>
+<a href="https://github.com/milaan9/07_Python_Advanced_Topics/network/members"><img src="https://img.shields.io/github/forks/milaan9/07_Python_Advanced_Topics" alt="Forks Badge"/> </a>
+<a href="https://github.com/milaan9/07_Python_Advanced_Topics/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/milaan9/07_Python_Advanced_Topics" /></a> 
+<a href="https://github.com/milaan9/07_Python_Advanced_Topics/pulls"><img src="https://img.shields.io/github/issues-pr/milaan9/07_Python_Advanced_Topics" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/milaan9/07_Python_Advanced_Topics/issues"><img src="https://img.shields.io/github/issues/milaan9/07_Python_Advanced_Topics" alt="Issues Badge"/></a>
+</p> 
+<!--<img src="https://badges.pufler.dev/contributors/milaan9/01_Python_Introduction?size=50&padding=5&bots=true" alt="milaan9"/>-->
+ 
+ 
+
 # 07_Python_Advanced_Topics
 
 
